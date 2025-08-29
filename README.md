@@ -100,15 +100,4 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
-
-## 💬Contact Me
-  <p>
-    <a href="https://linkedin.com/in/texora"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:texoadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  </p>
-  
-  <hr/>
-  
   <p align="right">(<a href="#top">BACK TO TOP🔝</a>)</p>
